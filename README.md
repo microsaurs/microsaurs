@@ -8,7 +8,6 @@
       📧 Email: <a href="microsaurs@gmail.com" target="_blank">microsaurs@gmail.com</a><br>
     </ul>
   </div>
-  <br>
   <div>
     <h3>🛠️ Tech Stack 🛠️</h3>
     <p>
