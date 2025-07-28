@@ -1,4 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmicrosaurs%2Fhit-counter&count_bg=%23FFCE29&title_bg=%23C0B4A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align="center">
         <h3>Hi, I'm Saeryoung 👻</h3>
     Back-end Developer using Java.
