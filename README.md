@@ -1,6 +1,6 @@
 <div align="center">
         <h3>Hi, I'm Saeryoung 👻</h3>
-    Back-end Developer using Java.
+    Backend Developer using Java.
 </div>
 
 <div align="center">
